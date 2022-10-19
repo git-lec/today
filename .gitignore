@@ -2,5 +2,7 @@
 pw.txt
 #폴더
 practice/
+#다른 git
+./git_test_clone
 
 #Runtime data
